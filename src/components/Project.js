@@ -8,7 +8,41 @@ function Project(props) {
                 <Navitem />
             </div>
             <div className="right">
-                <h1>project</h1>
+                <div style={{paddingTop: "5rem"}}  className="education_right">
+                <h1>Live Project :-</h1>
+                    <div className="graduation_div">
+                        <b>Career Finder (Using MERN-STACK)</b><br />
+                        <b>Role Based Authentication (e.g- for user and admin seperate)</b> <br />
+
+                        <b>Live Link: </b>
+                        <a href="https://manishcareer-finder.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <button>
+                        <strong>CAREER FINDER APP</strong>
+                        </button>
+                        </a><br />
+
+                        <b>Github Link: </b>
+                        <a href="https://github.com/manish221298/Career-Finder" target="_blank" rel="noopener noreferrer">
+                        <button>
+                        <strong>CAREER FINDER APP</strong>
+                        </button>
+                        </a><br />
+
+                        <b>Jun 2021 - Present</b><br />
+                    </div>
+
+                    <div className="graduation_div">
+                        <b>Web Developer Trainee</b><br />
+                        <b>Unilog Content Solution Pvt. Ltd.</b><br />
+                        <b>April 2021 - jun 2021</b><br />
+                    </div>
+
+                    <div className="graduation_div">
+                        <b>Full stack Developer Intern/ Trainee</b><br />
+                        <b>DCT Academy, Bangalore</b><br />
+                        <b>Feb 2020 - Aug 2020</b><br />
+                    </div>
+                </div>
             </div>
         </div>
     );

@@ -2,6 +2,7 @@ import React from 'react';
 import Navitem from "./Navitem"
 import SocialMedia from "./SocialMedia"
 
+
 function Contact(props) {
     return (
         <div>

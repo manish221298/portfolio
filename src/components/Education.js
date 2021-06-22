@@ -1,7 +1,7 @@
 import React from 'react';
 import Navitem from "./Navitem"
 
-function Education(props) {
+function Education() {
     return (
         <div>
             <div className="left">

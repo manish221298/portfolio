@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from "react-router-dom"
 import background from "../picture/background_image.jpg"
 
-function Home(props) {
+function Home() {
     return (
         <div>
             <div className="backgroundImage" style={{backgroundImage: `url(${background})`}}>

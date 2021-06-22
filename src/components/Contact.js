@@ -3,7 +3,7 @@ import Navitem from "./Navitem"
 import SocialMedia from "./SocialMedia"
 
 
-function Contact(props) {
+function Contact() {
     return (
         <div>
             <div className="left">

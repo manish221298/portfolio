@@ -16,6 +16,7 @@ function Contact(props) {
 
                 <div className="socialmedia">
                     <SocialMedia />
+                    
                 </div>
                 </div>
             </div>

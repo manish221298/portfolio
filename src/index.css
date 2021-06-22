@@ -41,13 +41,13 @@
   height: 665px;
   float: left;
   width: 20%;
-  background-color: rgb(191, 191, 196);
+  background-color: rgb(194, 194, 241);
 }
 .right {
   height: 665px;
   float: right;
   width: 80%;
-  background-color: rgb(247, 225, 236);
+  background-color: rgb(245, 212, 212);
 }
 .navbar_li {
   text-align: center;
@@ -136,4 +136,9 @@
 /* socialmedia page */
 .socialmedia {
   padding-top: 20rem;
+}
+.icon {
+  font-size: 2rem;
+  color: black;
+  padding: 1rem;
 }

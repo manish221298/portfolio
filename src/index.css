@@ -122,3 +122,18 @@
   font-family: sans-serif;
   margin: 2rem;
 }
+
+/* contactus page */
+.contact_h1 {
+  margin-bottom: 2rem;
+  font-family: sans-serif;
+}
+.contact_b {
+  font-family: sans-serif;
+  padding-top: 3rem;
+}
+
+/* socialmedia page */
+.socialmedia {
+  padding-top: 20rem;
+}

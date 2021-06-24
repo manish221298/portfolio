@@ -19,7 +19,7 @@ function Aboutus(props) {
                 <div className="aboutus_bottom">
                     <h1 style={{paddingLeft: "3rem", fontFamily: "sans-serif"}}>About Me :-</h1>
                     <p className="para" style={{margin: "1rem 1rem 1rem 1rem", paddingLeft: "2rem"}}>Hi, I am Manish</p>
-                    <p className="para">In 2020, I successfully completed my Engineering with specialization in 'Computer Science & Engineering.
+                    <p className="para">In 2020, I have successfully completed my Engineering with specialization in 'Computer Science & Engineering.
                     Along with that, I also completed Six months of training on MERN STACK TECHNOLOGY in my last semester of Engineering.</p>
                     <p className="para">Full Stack Developer with Exposure in JavaScript Technology such as ReactJS, Redux, NodeJS, ExpressJs & mongoDB.
                     </p>
